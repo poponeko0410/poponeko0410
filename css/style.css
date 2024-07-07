@@ -130,6 +130,9 @@ ul{
 .work-title{
   font-weight: bold;
 }
+.work-title a{
+  color: #df4f4f;
+}
 .work-desk{
   margin-top: 16px;
 }
